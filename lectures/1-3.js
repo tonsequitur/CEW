@@ -7,7 +7,7 @@ function setup() {
 // function plays out in 60fps
 function draw() {
 	background(248, 177, 149);
-	
+
 	stroke(53,92,125); //color applies to following shapes
 	strokeWeight(1);
 
