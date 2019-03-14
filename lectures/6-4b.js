@@ -1,4 +1,6 @@
 // arrays
+// for loop to draw a bunch of shapes
+// arrays declare a different variable for each shape
 
 let diameters = [34,27,81,93,11,72,110];
 
