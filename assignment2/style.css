@@ -1,0 +1,25 @@
+//assignment 2 css
+
+body {
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: #000000;
+  font-size: 30px;
+  line-height: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  color: #555555;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 100px;
+}
